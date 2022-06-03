@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Sam Metz, Associated Press
 
-You can use the [editor on GitHub](https://github.com/metzsam/metzsam.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! I'm Sam Metz and I'm a reporter for the Associated Press, covering Utah, Nevada and points beyond. I mainly write about western politics and the Colorado River but also often report on public lands, wildfires, the Church of Jesus Christ of Latter-day Saints and more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm based in Salt Lake City after spending two years as AP's one-man bureau in Carson City, Nevada. Before coming to the AP, I was a political reporter at The Desert Sun in Palm Springs, California, where I wrote on politics for California papers within the USA TODAY Network. I'm a graduate of UC Berkeley and spent two years writing on migration in the Mediterranean as a Fulbright Scholar and freelancer based in Tangier, Morocco.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/metzsam/metzsam.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can reach me on Signal at 775-339-1456
+Send mail to 90 S 400 West, Suite 670
+Salt Lake City, UT 84101
+Send me an email at smetz[at]ap.org or securely at sammetz[at]protonmail.com or you can DM me on Twitter @metzsam
