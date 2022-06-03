@@ -7,4 +7,6 @@ I'm based in Salt Lake City after spending two years as AP's one-man bureau in C
 You can reach me on Signal at 775-339-1456
 Send mail to 90 S 400 West, Suite 670
 Salt Lake City, UT 84101
-Send me an email at smetz[at]ap.org or securely at sammetz[at]protonmail.com or you can DM me on Twitter @metzsam
+Send me an email at smetz[at]ap.org or securely at sammetz[at]protonmail.com or you can DM me on Twitter [@metzsam](https://twitter.com/metzsam)
+
+Here are some recent [clips](url)
